@@ -1,0 +1,1 @@
+{"name":"Quantum Nexus","ticker":"QNX","description":"Quantum Nexus offers reliable staking services, leveraging advanced protocols to maximize uptime and reward distribution","homepage":"","nonce":"","extended":""}
